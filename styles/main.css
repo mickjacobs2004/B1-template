@@ -69,7 +69,10 @@ h2{
 main{
   padding: 1em;
 }
-
+.row{
+  display: flex;
+  justify-content: flex-start;
+}
 table{
   margin-top: 1em;
   width: 100%;
