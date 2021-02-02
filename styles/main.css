@@ -73,6 +73,10 @@ main{
   display: flex;
   justify-content: flex-start;
 }
+.row2{
+  display: flex;
+  justify-content: flex-start;
+}
 table{
   margin-top: 1em;
   width: 100%;
