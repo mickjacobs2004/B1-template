@@ -197,9 +197,14 @@ footer{
 */
 
 @media (max-width: 480px) {
+}
+.hidden-on-lg{
+  display: block;
 
 }
-
+.hidden-on-sm{
+  display: none;
+}
 /* 
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
