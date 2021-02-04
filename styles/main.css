@@ -128,7 +128,9 @@ article h2.rides{
 article h2.open-forever{
   background-image: url('../images/open-james-lee.jpg');
 }
-
+.emphasize h2{
+margin:0; 
+}
 .product{
   margin-right: 1em;
   padding: 1em;
