@@ -115,6 +115,7 @@ article h2{
   background-position: center;
   background-size: cover;
   text-align: center;
+  text-shadow:        0 0 0 #FCFCFC,       -1px -1px 0 #FCFCFC,         1px -1px 0 #FCFCFC,       -1px 1px 0 #FCFCFC,       1px 1px 0 #FCFCFC;
 }
 article h2.fun-for-family{
   background-image: url('../images/family-fun-george-arthur-pflueger.jpg');
