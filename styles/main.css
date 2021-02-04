@@ -229,13 +229,13 @@ footer{
 /*
   help! Het lettertype wordt om een of andere reden niet goed geladen... Misschien heeft het iets met het pad naar de fonts te maken?
 */
-@font-face {
+@font-face{
   font-family: 'Heartbeat';
-  src:  url('fonts/heartbeat.eot') format('eot'),
-        url('fonts/heartbeat.otf') format('otf'),
-        url('fonts/heartbeat.woff') format('woff'),
-        url('fonts/heartbeat.svg') format('svg'),
-        url('fonts/heartbeat.ttf') format('ttf');
+  src: url('.../fonts/heartbeat.eot') format('eot'),
+        url('.../fonts/heartbeat.otf') format('otf'),
+        url('.../fonts/heartbeat.woff') format('woff'),
+        url('.../fonts/heartbeat.svg') format('svg'),
+        url('.../fonts/heartbeat.ttf') format('ttf');
 }
 
 /*
